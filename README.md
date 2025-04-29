@@ -2,6 +2,9 @@
 
 A full-stack web application that allows users to ask questions about any website's content. The application uses LangChain and OpenAI to provide intelligent responses based on the website's content.
 
+<img width="2042" alt="screenshot" src="https://github.com/user-attachments/assets/ee7231ca-a165-4310-b184-e9e5369b04c0" />
+
+
 ## Features
 
 - Extract and analyze content from any website
